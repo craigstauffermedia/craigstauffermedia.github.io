@@ -1,0 +1,62 @@
+body{
+  width:960px;
+}
+
+h1{
+  display: none;
+}
+
+footer{
+  width: 960px;
+  height: 400px;
+}
+
+#wrapper{
+  margin: 0 auto;
+}
+
+
+h1{
+  text-align: center;
+
+}
+
+header{
+width: 960px;
+height: 60px;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  display: inline;
+}
+
+nav{
+  float: right;
+}
+
+.floatleft{
+  float: left;
+}
+
+.floatright{
+  float: right;
+}
+
+#portwrapper img{
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+#portwrapper{
+  display: block;
+}
+
+#headlogo{
+  float: left;
+}
